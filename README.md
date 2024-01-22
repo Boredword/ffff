@@ -1,4 +1,4 @@
-## Hi there, I'm [Chris Bilger][Portfolio] 👋
+## Hi there, I'm [valera][Portfolio] 👋
 
 ### I'm a huge FOSS advocate and a student at heart!
 - 🏫 Learn more about me on my [website / portfolio][Portfolio]
